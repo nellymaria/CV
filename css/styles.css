@@ -9,6 +9,7 @@ body {
 .first-box-container {
   width: 450px;
   height: 200px;
+  margin-top: 10px;
   padding: 10px;
   background-color: #e0ebeb;
   position: absolute;
@@ -17,9 +18,30 @@ body {
 .second-box-container {
   width: 450px;
   height: 200px;
+  margin-top: 10px;
   padding: 10px;
   background-color: #e0ebeb;
   position: absolute;
-  left: 850px;
+  left: 900px;
 }
 
+.third-box-container {
+  width: 450px;
+  height: 200px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #e0ebeb;
+  position: absolute;
+  top: 450px;
+
+}
+
+.fourth-box-container {
+  width: 450px;
+  height: 200px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #e0ebeb;
+  position: absolute;
+  top: 450px; left: 900px; 
+}
